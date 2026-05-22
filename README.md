@@ -1,4 +1,4 @@
-# CONSIGN$^+$: Efficient and Risk-Aware Conformal Medical Image Segmentation via Topological Subspace Calibration
+# CONSIGN+: Efficient and Risk-Aware Conformal Medical Image Segmentation via Topological Subspace Calibration
 
 This repository contains the implementation for evaluating and optimizing uncertainty quantification (UQ) in medical image segmentation using Conformal Prediction (CP). It compares standard pixel-wise calibration methods against subspace frameworks that utilize Singular Value Decomposition (SVD) spatial priors. 
 
